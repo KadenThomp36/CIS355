@@ -1,7 +1,7 @@
 <?php
 session_start();
-if (!$_SESSION) {
-    header("Location: success.php");
+if (!isset($_SESSION["username"])){
+    header("Location: login.php");
 }
 ?>
 success!
