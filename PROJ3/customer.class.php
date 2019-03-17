@@ -259,9 +259,9 @@ class Customer {
         echo "
             </head>
             <body>
-                <a href='https://github.com/FirstYearSuites/Prog03' target='_blank'>GitHub</a><br />
-                <a href='UML.pdf' target='_blank'>UML Diagram</a><br />
-		        <a href='flow.pdf' target='_blank'>Flow Diagram</a><br />
+                <a href='https://github.com/KadenThomp36/CIS355/tree/master/PROJ3' target='_blank'>GitHub</a><br />
+                <a href='https://github.com/KadenThomp36/CIS355/blob/master/PROJ3/uml.png' target='_blank'>UML Diagram</a><br />
+		        <a href='https://github.com/KadenThomp36/CIS355/blob/master/PROJ3/Screenflow_Prog3.png' target='_blank'>Screen Flow Diagram</a><br />
                 <div class='container'>
                     <p class='row'>
                         <h3>$this->title" . "s" . "</h3>
