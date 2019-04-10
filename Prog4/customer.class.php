@@ -389,10 +389,10 @@ class Customer {
         echo "
             </head>
             <body>
-                <a href='https://github.com/FirstYearSuites/CIS355-Prog04'>GitHub</a><br />
-                <a href='diagrams/Screenflow1.PNG'>Flow Diagram</a><br />
-                <a href='diagrams/UML..PNG'>UML Diagram</a><br />
-		<a href='uploads/' >Image Uploads</a><br />
+                <a href='https://github.com/KadenThomp36/CIS355/tree/master/Prog4'>GitHub</a><br />
+                <a href='https://github.com/KadenThomp36/CIS355/blob/master/Prog4/uml%20and%20screenflow/Screenflow_Prog4.png'>Flow Diagram</a><br />
+                <a href='https://github.com/KadenThomp36/CIS355/blob/master/Prog4/uml%20and%20screenflow/uml%20prog%204.png'>UML Diagram</a><br />
+		
                 <div class='container'>
                     <p class='row'>
                         <h3>$this->title" . "s" . "</h3>
